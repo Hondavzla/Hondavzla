@@ -1,4 +1,4 @@
-# Hey, I'm Ricardo Salcedo 👋
+# Hey there 👋
 
 CS student finishing my AA and building real projects along the way.  
 I like making things that actually work — full-stack apps, clean UIs, and everything in between.
